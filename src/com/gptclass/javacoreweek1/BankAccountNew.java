@@ -1,6 +1,6 @@
 package com.gptclass.javacoreweek1;
 
-public class BankAccount {
+public class BankAccountNew {
     private long accountNumber;
     private long balance;
     private String password;
@@ -9,7 +9,7 @@ public class BankAccount {
         return accountNumber;
     }
 
-    public BankAccount(long accountNumber, String password) {
+    public BankAccountNew(long accountNumber, String password) {
         this.accountNumber = accountNumber;
         this.password=password;
         this.balance=0;

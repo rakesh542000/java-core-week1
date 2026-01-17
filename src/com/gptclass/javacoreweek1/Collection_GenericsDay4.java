@@ -64,7 +64,7 @@ class Box<T>{
 }
 
 
-public class Collection_GenericsDay_4 {
+public class Collection_GenericsDay4 {
 
     public static void main(String[] args) {
         List<Student> students = new ArrayList<>();
